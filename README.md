@@ -25,6 +25,7 @@
 - [awesome-integration](https://github.com/stn1slv/awesome-integration): 系统集成软件及资源
 - [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [openalternative](https://openalternative.co/)
+- [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare)
 
 ## 开发
 ### shell/ssh
@@ -39,6 +40,10 @@
 - [awesome-serverless](https://github.com/anaibol/awesome-serverless)
 - [Awesome Ci](https://github.com/ligurio/awesome-ci)
 - [Awesome Ci Apps](https://github.com/agarrharr/awesome-cli-apps)
+- [Nginx Resources](https://github.com/fcambus/nginx-resources)
+### 容器
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+- [](https://github.com/ramitsurana/awesome-kubernetes)
 ### 配置
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
@@ -48,11 +53,28 @@
 - [Awesome Db Tools](https://github.com/mgramin/awesome-db-tools/)
 - [Awesome Mysql](https://github.com/shlomi-noach/awesome-mysql/)
 - [Awesome Nosql Guides](https://github.com/erictleung/awesome-nosql-guides/)
+- [DB资料集 | 卡瓦邦噶！](https://www.kawabangga.com/db)
 ### Git/Github
 - [Awesome Actions](https://github.com/sdras/awesome-actions)
 - [Awesome Github](https://github.com/phillipadsmith/awesome-github)
+- [awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki)
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Awesome Git Hooks](https://github.com/CompSciLauren/awesome-git-hooks)
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons)
+- [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+
+### 杂
+- [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz): 数据可视化
+- [Awesome JSON](https://github.com/burningtree/awesome-json)
+- [Awesome Naming](https://github.com/gruhn/awesome-naming): 如何命名
+- [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
 ## 学习
+### 架构
+- [awesome-design-principles)](https://github.com/robinstickel/awesome-design-principles)
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd)
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+- [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 ### 实践
 - [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
@@ -65,12 +87,12 @@
 - [rofessional-programming](https://github.com/charlax/professional-programming)
 - [CodeCrafters](https://app.codecrafters.io/catalog): 通过动手实践来学习构建复杂软件的网站
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code): 代码探险
-
+### Java
+- [awesome-jvm](https://github.com/deephacks/awesome-jvm)
+- [awesome-java](https://github.com/akullpp/awesome-java)
+- [awesome-groovy](https://github.com/kdabir/awesome-groovy)
 ### 算法
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-
-
-
 
 ## Hack
 - [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)

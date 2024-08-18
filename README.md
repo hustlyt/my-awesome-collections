@@ -1,9 +1,9 @@
 # 我关心的awesome仓库
 
 ## awesome-awesome
-- [trackawesomelist](https://www.trackawesomelist.com/)
-- [awesome-selfhosted](https://awesome-selfhosted.net/)
-- [sindresorhus/awesome](https://project-awesome.org/)或[awesome](https://github.com/sindresorhus/awesome)
+- [trackawesomelist](https://www.trackawesomelist.com/): 跟踪awesome列表的更新
+- [awesome-selfhosted](https://awesome-selfhosted.net/): 自部署软件
+- [sindresorhus/awesome](https://project-awesome.org/)或[awesome](https://github.com/sindresorhus/awesome): awesome的集合
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [icopy/awesome lists](https://asmen.icopy.site/)
 - [Dev Awesome](https://wener.me/notes/dev/awesome)
@@ -41,9 +41,9 @@
 - [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点
 - [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university): 代码面试
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions): 面试问题
+- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps): 各种语言的学习路径
 - [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): 通过从头开始重新创建您最喜欢的技术来掌握编程
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning): 基于项目的教程精选列表

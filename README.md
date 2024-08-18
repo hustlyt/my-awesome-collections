@@ -75,6 +75,7 @@
 - [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare)
 - [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 - [awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools): 生产力工具
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 开发者应该访问的网站
 
 ## 开发
 ### shell/ssh

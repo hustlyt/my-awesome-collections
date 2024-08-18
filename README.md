@@ -16,7 +16,6 @@
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo): 收集整理 GitHub 上高质量、有趣的开源项目。
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-- [awesome-serverless](https://github.com/anaibol/awesome-serverless)
 - [selfh.st](https://selfh.st/apps/): 发现自部署的软件
 - [free-for.dev](https://free-for.dev/#/)
 - [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev)
@@ -26,6 +25,8 @@
 - [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [openalternative](https://openalternative.co/)
 - [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare)
+- [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
+- [awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools): 生产力工具
 
 ## 开发
 ### shell/ssh
@@ -34,6 +35,8 @@
 - [Awesome Devenv](https://github.com/jondot/awesome-devenv)
 - [Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell)
 - [Awesome Ssh](https://github.com/moul/awesome-ssh)
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy): 终端框架、插件、资源
+- [Terminal Trove](https://terminaltrove.com/): 终端工具集合
 ### Devops
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd)
 - [awesome-ops](https://github.com/eryajf/awesome-ops): 🧰 运维相关的优秀项目
@@ -41,9 +44,14 @@
 - [Awesome Ci](https://github.com/ligurio/awesome-ci)
 - [Awesome Ci Apps](https://github.com/agarrharr/awesome-cli-apps)
 - [Nginx Resources](https://github.com/fcambus/nginx-resources)
+- [awesome-webhooks](https://github.com/realadeel/awesome-webhooks)
+- [public-apis](https://github.com/public-apis/public-apis): 公共API
+- [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+- [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
+- [awesome-ansible](https://github.com/ansible-community/awesome-ansible)
 ### 容器
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-- [](https://github.com/ramitsurana/awesome-kubernetes)
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 ### 配置
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
@@ -62,7 +70,11 @@
 - [Awesome Git Hooks](https://github.com/CompSciLauren/awesome-git-hooks)
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
-
+- [git-tips](https://github.com/git-tips/tips)
+### 编辑器
+- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+- [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks)
+- [vim-galore](https://github.com/mhinz/vim-galore)
 ### 杂
 - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz): 数据可视化
 - [Awesome JSON](https://github.com/burningtree/awesome-json)
@@ -77,6 +89,8 @@
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 ### 实践
 - [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
+- [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
@@ -87,6 +101,9 @@
 - [rofessional-programming](https://github.com/charlax/professional-programming)
 - [CodeCrafters](https://app.codecrafters.io/catalog): 通过动手实践来学习构建复杂软件的网站
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code): 代码探险
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks): 计算机方面相关的演讲
+- [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
+- [](https://github.com/mbiesiad/awesome-translations): 国际化、l10n, g11n, m17n, i18n
 ### Java
 - [awesome-jvm](https://github.com/deephacks/awesome-jvm)
 - [awesome-java](https://github.com/akullpp/awesome-java)
@@ -98,6 +115,15 @@
 - [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
-  
 ## 前端
 - [jscool](https://jscool.cn/): 发现超cool的前端资源
+- [awesome-vu](https://github.com/vuejs/awesome-vue): vue
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm)
+- [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts)
+- [web-development-resources](https://github.com/markodenic/web-development-resources): web开发资源
+- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): chrome开发者工具
+- [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving): 网页备份
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+## 数学
+- [awesome-math](https://github.com/rossant/awesome-math)

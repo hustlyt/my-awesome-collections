@@ -7,7 +7,36 @@
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [icopy/awesome lists](https://asmen.icopy.site/)
 - [Dev Awesome](https://wener.me/notes/dev/awesome)
-
+## 学习
+### 架构
+- [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd)
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+- [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+### 实践
+- [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
+- [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点
+- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps)
+- [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): 通过从头开始重新创建您最喜欢的技术来掌握编程
+- [project-based-learning](https://github.com/practical-tutorials/project-based-learning): 基于项目的教程精选列表
+- [rofessional-programming](https://github.com/charlax/professional-programming)
+- [CodeCrafters](https://app.codecrafters.io/catalog): 通过动手实践来学习构建复杂软件的网站
+- [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code): 代码探险
+- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks): 计算机方面相关的演讲
+- [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
+- [awesome-translations](https://github.com/mbiesiad/awesome-translations): 国际化、l10n, g11n, m17n, i18n
+### Java
+- [awesome-jvm](https://github.com/deephacks/awesome-jvm)
+- [awesome-java](https://github.com/akullpp/awesome-java)
+- [awesome-groovy](https://github.com/kdabir/awesome-groovy)
+### 算法
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 ## 工具
 - [freemediaheckyeah](https://fmhy.net/): 最全面的免费资源收集
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo): 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -78,37 +107,6 @@
 - [Awesome Naming](https://github.com/gruhn/awesome-naming): 如何命名
 - [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
 - [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
-## 学习
-### 架构
-- [awesome-design-principles)](https://github.com/robinstickel/awesome-design-principles)
-- [awesome-ddd](https://github.com/heynickc/awesome-ddd)
-- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
-- [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
-- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-### 实践
-- [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
-- [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点
-- [Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode)
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-- [awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps)
-- [Awesome Checklist Checklist](https://github.com/huyingjie/Checklist-Checklist)
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): 通过从头开始重新创建您最喜欢的技术来掌握编程
-- [project-based-learning](https://github.com/practical-tutorials/project-based-learning): 基于项目的教程精选列表
-- [rofessional-programming](https://github.com/charlax/professional-programming)
-- [CodeCrafters](https://app.codecrafters.io/catalog): 通过动手实践来学习构建复杂软件的网站
-- [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code): 代码探险
-- [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks): 计算机方面相关的演讲
-- [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
-- [awesome-translations](https://github.com/mbiesiad/awesome-translations): 国际化、l10n, g11n, m17n, i18n
-### Java
-- [awesome-jvm](https://github.com/deephacks/awesome-jvm)
-- [awesome-java](https://github.com/akullpp/awesome-java)
-- [awesome-groovy](https://github.com/kdabir/awesome-groovy)
-### 算法
-- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
-
 ## Hack
 - [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)

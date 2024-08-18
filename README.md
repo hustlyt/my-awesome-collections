@@ -9,11 +9,33 @@
 - [Dev Awesome](https://wener.me/notes/dev/awesome)
 ## 学习
 ### 架构
-- [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
-- [awesome-ddd](https://github.com/heynickc/awesome-ddd)
-- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
-- [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
-- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd): DDD架构
+- [学习领域驱动设计](https://github.com/Sairyss/domain-driven-hexagon)
+- [awesome-software-architecture](https://github.com/simskij/awesome-software-architecture): 软件架构
+- [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect): 软件架构之路
+- [阿里COLA架构](https://github.com/alibaba/COLA)
+- [基础架构面试](https://github.com/DistSysCorp/infra-interview)
+### 系统设计
+- [Awesome Microservices](https://github.com/mfornos/awesome-microservices)： 微服务
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+- [stevenli91748/System-Design](https://github.com/stevenli91748/System-Design)
+- [system-design-patterns](https://github.com/Sairyss/system-design-patterns)
+- [system-design newsletter](https://github.com/systemdesign42/system-design)
+- [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+- [awesome-scalabilit](https://github.com/binhnguyennus/awesome-scalability): 可扩展性、可靠性
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+- [个人做过的技术分享... ( topic: 高性能架构, 中间件原理实践，云原生，Golang 等)](https://github.com/rfyiamcool/share_ppt)
+- [深入高可用架构原理与实践](https://www.thebyte.com.cn/)
+- [凤凰架构：构筑可靠的大型分布式系统](https://icyfenix.cn/)
+### 设计原则
+- [awesome-design-principles](https://github.com/robinstickel/awesome-design-principles): 设计原则
+- [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns): 设计模式
+- [programming-principles](https://github.com/webpro/programming-principles): 编程原则及设计模式
+- [hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
+- [我做系统架构的一些原则 | 酷 壳 - CoolShell](https://coolshell.cn/articles/21672.html/comment-page-1)
 ### 实践
 - [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
 - [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点

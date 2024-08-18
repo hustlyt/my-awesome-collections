@@ -35,7 +35,7 @@
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns): 设计模式
 - [programming-principles](https://github.com/webpro/programming-principles): 编程原则及设计模式
 - [hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式](https://github.com/nusr/hacker-laws-zh)
-- [我做系统架构的一些原则 | 酷 壳 - CoolShell](https://coolshell.cn/articles/21672.html/comment-page-1)
+- [我做系统架构的一些原则 | 酷 壳](https://coolshell.cn/articles/21672.html/comment-page-1)
 ### 实践
 - [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing)
 - [awesome-codepoints](https://github.com/Codepoints/awesome-codepoints): Unicode码点
@@ -104,7 +104,7 @@
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
 - [Awesome Devenv](https://github.com/jondot/awesome-devenv)
-## Database-数据库
+### Database-数据库
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [Awesome Db Tools](https://github.com/mgramin/awesome-db-tools/)
 - [Awesome Mysql](https://github.com/shlomi-noach/awesome-mysql/)

@@ -8,9 +8,6 @@
 - [icopy/awesome lists](https://asmen.icopy.site/)
 - [Dev Awesome](https://wener.me/notes/dev/awesome)
 
-## 资源合集
-- [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
-
 ## 工具
 - [freemediaheckyeah](https://fmhy.net/): 最全面的免费资源收集
 - [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo): 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -80,6 +77,7 @@
 - [Awesome JSON](https://github.com/burningtree/awesome-json)
 - [Awesome Naming](https://github.com/gruhn/awesome-naming): 如何命名
 - [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
+- [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
 ## 学习
 ### 架构
 - [awesome-design-principles)](https://github.com/robinstickel/awesome-design-principles)
@@ -103,7 +101,7 @@
 - [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code): 代码探险
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks): 计算机方面相关的演讲
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos)
-- [](https://github.com/mbiesiad/awesome-translations): 国际化、l10n, g11n, m17n, i18n
+- [awesome-translations](https://github.com/mbiesiad/awesome-translations): 国际化、l10n, g11n, m17n, i18n
 ### Java
 - [awesome-jvm](https://github.com/deephacks/awesome-jvm)
 - [awesome-java](https://github.com/akullpp/awesome-java)

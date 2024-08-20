@@ -5,8 +5,8 @@
 - [awesome-selfhosted](https://awesome-selfhosted.net/): 自部署软件
 - [sindresorhus/awesome](https://project-awesome.org/)或[awesome](https://github.com/sindresorhus/awesome): awesome的集合
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-- [icopy/awesome lists](https://asmen.icopy.site/)
-- [Dev Awesome](https://wener.me/notes/dev/awesome)
+- [icopy/awesome lists](https://asmen.icopy.site/)或中文版[https://asmcn.icopy.site/](https://asmcn.icopy.site/)
+- [Dev Awesome](https://wener.me/notes/dev/awesome): 开发相关的awesome仓库
 ## 学习
 ### 架构
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd): DDD架构

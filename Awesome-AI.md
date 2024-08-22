@@ -6,7 +6,7 @@
 - [Awesome LLMs In China](https://github.com/wgwang/awesome-LLMs-In-China): 中国大模型列表
 - [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms)
 - [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
-- [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization): LLM量化
+- [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization)、[Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers)、[awesome-model-quantization](https://github.com/htqin/awesome-model-quantization)、[量化概念解释](https://huggingface.co/docs/optimum/concept_guides/quantization): LLM量化
 - [StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky): 精选了5K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容
 ## 小白理解
 - [GPT 原理详解：大模型到底有没有智能？](https://icloudnative.io/posts/how-gpt-work-explained-without-math/)
@@ -41,6 +41,7 @@
 - [OpenAI官方文档](https://platform.openai.com/docs/overview)
 - [Claude官方文档](https://docs.anthropic.com/en/docs/welcome)
 - [Qwen官方文档](https://qwen.readthedocs.io/en/latest/index.html)
+- [Huggingface官方文档(https://huggingface.co/docs)
 - [开源 AI 指南 (Cookbook)](https://huggingface.co/learn/cookbook/zh-CN/index)
 ## 本地运行/部署
 - [jan](https://github.com/janhq/jan): 开源的 ChatGPT 替代品，可以在你的电脑上完全离线运行。支持多种引擎（llama.cpp, TensorRT-LLM）

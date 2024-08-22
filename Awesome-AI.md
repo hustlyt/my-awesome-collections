@@ -40,12 +40,16 @@
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [OpenAI官方文档](https://platform.openai.com/docs/overview)
 - [Claude官方文档](https://docs.anthropic.com/en/docs/welcome)
+- [Qwen官方文档](https://qwen.readthedocs.io/en/latest/index.html)
 - [开源 AI 指南 (Cookbook)](https://huggingface.co/learn/cookbook/zh-CN/index)
 ## 本地运行/部署
 - [jan](https://github.com/janhq/jan): 开源的 ChatGPT 替代品，可以在你的电脑上完全离线运行。支持多种引擎（llama.cpp, TensorRT-LLM）
 - [llamafile](https://github.com/Mozilla-Ocho/llamafile): 仅通过一个文件运行LLM
 - [dalai](https://github.com/cocktailpeanut/dalai): 本机运行LLaMA
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)/[llama3.java](https://github.com/mukel/llama3.java): 运行LLaMA模型
 - [Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline)
+## 镜像站
+- [hf-mirror](https://hf-mirror.com/)
 
 ## LLaMA
 - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese): Llama中文社区

@@ -42,6 +42,7 @@
 - [Claude官方文档](https://docs.anthropic.com/en/docs/welcome)
 - [Qwen官方文档](https://qwen.readthedocs.io/en/latest/index.html)
 - [Huggingface官方文档(https://huggingface.co/docs)
+- [Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook): 微软Phi-3
 - [开源 AI 指南 (Cookbook)](https://huggingface.co/learn/cookbook/zh-CN/index)
 ## 本地运行/部署
 - [jan](https://github.com/janhq/jan): 开源的 ChatGPT 替代品，可以在你的电脑上完全离线运行。支持多种引擎（llama.cpp, TensorRT-LLM）

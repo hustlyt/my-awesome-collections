@@ -127,7 +127,7 @@
 ### 杂
 - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz): 数据可视化
 - [Awesome JSON](https://github.com/burningtree/awesome-json)
-- [Awesome Naming](https://github.com/gruhn/awesome-naming)、[naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet): 如何命名
+- [Awesome Naming](https://github.com/gruhn/awesome-naming)、[naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)、[API-Naming-Convention](https://github.com/RootSoft/API-Naming-Convention): 如何命名
 - [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
 - [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
 ## Hack

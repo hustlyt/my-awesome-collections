@@ -107,6 +107,7 @@
 - [Awesome Devenv](https://github.com/jondot/awesome-devenv)
 ### Database-数据库
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
+- [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
 - [Awesome Db Tools](https://github.com/mgramin/awesome-db-tools/)
 - [Awesome Mysql](https://github.com/shlomi-noach/awesome-mysql/)
 - [awesome-mysql](https://github.com/jobbole/awesome-mysql-cn): MySQL 资源大全中文版

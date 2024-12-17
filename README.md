@@ -8,6 +8,8 @@
 - [icopy/awesome lists](https://asmen.icopy.site/)或中文版[https://asmcn.icopy.site/](https://asmcn.icopy.site/)
 - [Dev Awesome](https://wener.me/notes/dev/awesome): 开发相关的awesome仓库
 ## 学习
+### 课程
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 ### 架构
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd): DDD架构
 - [学习领域驱动设计](https://github.com/Sairyss/domain-driven-hexagon)
@@ -76,6 +78,7 @@
 - [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 - [awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools): 生产力工具
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 开发者应该访问的网站
+- [awesome-developer-first](https://github.com/agamm/awesome-developer-first)
 
 ## 开发
 ### shell/ssh
@@ -101,6 +104,7 @@
 ### 容器
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
 ### 配置
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Awesome Pinned Gists](https://github.com/matchai/awesome-pinned-gists)
@@ -136,6 +140,8 @@
 - [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing): 打包
 - [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
 - [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
+- [nginx-resources](https://github.com/fcambus/nginx-resources)
+- [vertx-awesome](https://github.com/vert-x3/vertx-awesome)
 ## Hack
 - [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -147,6 +153,7 @@
 - [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [web-development-resources](https://github.com/markodenic/web-development-resources): web开发资源
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools): chrome开发者工具
+- [awesome-devtools](https://github.com/moimikey/awesome-devtools)
 - [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving): 网页备份
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 

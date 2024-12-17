@@ -109,6 +109,10 @@
 - [awesome-db](https://github.com/numetriclabz/awesome-db)
 - [Awesome Db Tools](https://github.com/mgramin/awesome-db-tools/)
 - [Awesome Mysql](https://github.com/shlomi-noach/awesome-mysql/)
+- [awesome-mysql](https://github.com/jobbole/awesome-mysql-cn): MySQL 资源大全中文版
+- [awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance)
+- [awesome-mysql-queries-commands](https://github.com/joseluisq/awesome-mysql-queries-commands)
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
 - [Awesome Nosql Guides](https://github.com/erictleung/awesome-nosql-guides/)
 - [DB资料集 | 卡瓦邦噶！](https://www.kawabangga.com/db)
 ### Git/Github
@@ -128,6 +132,7 @@
 - [Awesome Dataviz](https://github.com/javierluraschi/awesome-dataviz): 数据可视化
 - [Awesome JSON](https://github.com/burningtree/awesome-json)
 - [Awesome Naming](https://github.com/gruhn/awesome-naming)、[naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet)、[API-Naming-Convention](https://github.com/RootSoft/API-Naming-Convention): 如何命名
+- [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing): 打包
 - [AwesomeCSV](https://github.com/secretGeek/AwesomeCSV)
 - [🌈9527精品资源合集](https://www.yuque.com/eureka9527/0007)
 ## Hack
